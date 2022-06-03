@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d42eb2b7-dcd9-4c30-85ee-01dd06092196" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img_bg_footer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/img_bg_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/img_bg_1.jpg" afterDir="false" />
@@ -58,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654261720435</updated>
-      <workItem from="1654261721696" duration="12463000" />
+      <workItem from="1654261721696" duration="12903000" />
     </task>
     <task id="LOCAL-00001" summary="kelar">
       <created>1654268556639</created>
