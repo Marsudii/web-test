@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d42eb2b7-dcd9-4c30-85ee-01dd06092196" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slider.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img_bg_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/img_bg_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img_bg_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/img_bg_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img_bg_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/img_bg_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img_bg_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/img_bg_4.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/style.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,8 +58,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654261720435</updated>
-      <workItem from="1654261721696" duration="6198000" />
+      <workItem from="1654261721696" duration="12463000" />
     </task>
+    <task id="LOCAL-00001" summary="kelar">
+      <created>1654268556639</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654268556639</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,5 +83,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="kelar" />
+    <option name="LAST_COMMIT_MESSAGE" value="kelar" />
   </component>
 </project>
